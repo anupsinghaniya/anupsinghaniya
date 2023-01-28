@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anupsinghaniya
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently pursuing Bachelor of Computer Applications from Lovely Professional University, Punjab (India)
+- 🌱 I’m currently pursuing Master of Computer Applications from Lovely Professional University, Punjab (India)
 - 📫 How to reach me email i'd: anup08.lpu@gmail.com
                       linkedIn i'd: https://www.linkedin.com/in/anup-kumar08/
 
